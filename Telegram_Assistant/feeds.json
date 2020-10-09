@@ -1,0 +1,22 @@
+{
+  "hacker_news": {
+    "url": "https://feeds.feedburner.com/TheHackersNews",
+    "date_title": "A Bug Could Let Attackers Hijack Firefox for Android via Wi-Fi Network"
+  },
+  "mac_rumors": {
+    "url": "http://feeds.macrumors.com/MacRumors-All",
+    "date_title": "AirPods Studio Rumored to Come With U1 Chip, Ultra-Wideband Said to Be Vital to Future Apple Ecosystem"
+  },
+  "zhihu_daily": {
+    "url": "http://feeds.feedburner.com/zhihu-daily",
+    "date_title": "\u80fd\u4e0d\u80fd\u901a\u8fc7\u852c\u83dc\u8865\u5145\u6240\u6709\u6c34\u679c\u7ef4\u751f\u7d20?"
+  },
+  "NASA": {
+    "url": "https://rsshub.app/nasa/apod",
+    "date_title": "Breaking Distant Light  | 2020-09-20"
+  },
+  "National Geography": {
+    "url": "https://rsshub.app/natgeo/dailyphoto",
+    "date_title": "Tour de France"
+  }
+}
