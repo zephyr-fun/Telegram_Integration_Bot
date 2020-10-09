@@ -1,0 +1,22 @@
+{
+  "hacker_news": {
+    "url": "https://feeds.feedburner.com/TheHackersNews",
+    "date_title": "U.S. Treasury Sanctions Hacking Group Backed by Iranian Intelligence"
+  },
+  "mac_rumors": {
+    "url": "http://feeds.macrumors.com/MacRumors-All",
+    "date_title": "iOS 14: All the New Features With Guides and How Tos"
+  },
+  "zhihu_daily": {
+    "url": "http://feeds.feedburner.com/zhihu-daily",
+    "date_title": "\u4e3a\u4ec0\u4e48\u5927\u5bb6\u5bf9\u6545\u5bab\u4f1a\u6709\u72ec\u7279\u7684\u60c5\u6000\uff1f"
+  },
+  "NASA": {
+    "url": "https://rsshub.app/nasa/apod",
+    "date_title": "Orion in Depth  | 2020-09-19"
+  },
+  "National Geography": {
+    "url": "https://rsshub.app/natgeo/dailyphoto",
+    "date_title": "Buddhist Monks"
+  }
+}
