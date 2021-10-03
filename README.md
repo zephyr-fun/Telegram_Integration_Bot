@@ -1,7 +1,7 @@
 # Telegram_Integration_Bot
 a robot for telegram usage , include RSS_subscribe , picture_of_the_day and weather_of_the_day for now , and will be constantly update .
 
-based on [python-telegram-bot](https://https://python-telegram-bot.org/) , thanks a lot to it , it  makes develop a bot so easy.
+based on [python-telegram-bot](https://python-telegram-bot.org/) , thanks a lot to it , it  makes develop a bot so easy.
 
 ## Installation
 
@@ -25,6 +25,9 @@ Please make sure to update tests as appropriate.
 ## Todo_list
 * curl wttr.in/City_name
 * curl wttr.in/Airport_code
+* integrate the functions
+* reconstruct the code
+* base on the lastest version the package
 * ...
 
 ## License
