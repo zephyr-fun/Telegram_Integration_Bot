@@ -27,7 +27,7 @@ def show_weather(weather_data):
     weather_dict = weather_data
     #将json数据转换为dict数据
     if weather_dict.get('desc') == 'invilad-citykey':
-        weather_text = '啊真的有这个城市吗？\n官方说法：天气中心未收录你所在城市'
+        weather_text = '啊真的有这个城市吗？:P\n官方说法：天气中心未收录你所在城市'
     elif weather_dict.get('desc') =='OK':
         forecast = weather_dict.get('data').get('forecast')
         weather_text = '城市：' + weather_dict.get('data').get('city') + '\n' + '温度：' + weather_dict.get('data').get('wendu') + '℃ ' + '\n' + '感冒：' + weather_dict.get('data').get('ganmao') + '\n' + '风向：' + forecast[0].get('fengxiang') + '\n' + '高温：' + forecast[0].get('high') + '\n' + '低温：' + forecast[0].get('low') + '\n' + '天气：' + forecast[0].get('type') + '\n' + '日期：' + forecast[0].get('date')
