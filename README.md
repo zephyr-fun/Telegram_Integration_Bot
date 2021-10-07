@@ -28,6 +28,7 @@ Please make sure to update tests as appropriate.
 * integrate the functions
 * reconstruct the code
 * base on the lastest version the package
+* work in leisure time
 * ...
 
 ## License
